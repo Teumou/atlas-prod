@@ -1,12 +1,12 @@
 {
   "format": 1,
-  "release": 2,
+  "release": 3,
   "version": "3.0.0-alpha.3",
   "mode": "encrypted",
-  "date": "2026-11-15T22:14:00.104Z",
-  "keyId": "c268a1900bf300d8",
-  "salt": "eZdElA3Gy+W2BUOxnzmRwg==",
-  "keyCheck": "tN3wc9C+3Ebm4oMrDDZZCUPOka8bHAEKYUSmoYBqm0Dda7MDURQP2xsVPg==",
+  "date": "2026-11-15T22:17:13.817Z",
+  "keyId": "b4822f30868162d5",
+  "salt": "8D4BK4JI/vDZTRm8jc/iaQ==",
+  "keyCheck": "djhAOURlqXym8j+CQGqEehWS6m8e5P9XBYifrDL2euQfD6oIkitUpoezFA==",
   "boot": [
     "index.html",
     "login.js",
@@ -17,9 +17,9 @@
     "icon-512-maskable.png"
   ],
   "manifest": {
-    "name": "b/88f802bae93aa4640643a4a3851d1424a9d398b413be30e7bdc2b4201de4fda3",
+    "name": "b/7a6a5ae6cbdd0380bbe57dde9e9e5d37bbfbc2490965817f93fdc173a0c1fce8",
     "length": 729,
-    "sha256": "88f802bae93aa4640643a4a3851d1424a9d398b413be30e7bdc2b4201de4fda3"
+    "sha256": "7a6a5ae6cbdd0380bbe57dde9e9e5d37bbfbc2490965817f93fdc173a0c1fce8"
   },
   "files": null
 }
