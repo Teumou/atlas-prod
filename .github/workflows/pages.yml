@@ -1,3 +1,20 @@
+name: pages
+
+# Publishes site/ to GitHub Pages (ADR-001 point 6). No secret.
+# Two jobs: the deploy job starts after the upload has ended, so the artifact is listed.
+on:
+  push:
+    branches: [main]
+
+permissions:
+  pages: write
+  id-token: write
+  contents: read
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
